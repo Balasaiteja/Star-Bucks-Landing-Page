@@ -1,1 +1,1 @@
-# Star-Bucks-Landing-Page
+# StarBucks-Landing-Page
